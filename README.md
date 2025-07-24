@@ -4,7 +4,7 @@
 Capstone project focused on designing, modeling, and assembling a mechanical sheet bending machine suitable for light-duty fabrication.
 
 ## 🔧 Key Contributions
-- Developed the project from concept to prototype as part of a 5-member engineering team.
+- Developed the project from concept to prototype as part of a 4-member engineering team.
 - Led mechanical design and die arrangement to ensure accurate and consistent bending.
 - Handled fabrication, assembly, and testing to validate performance under real-world conditions.
 - Successfully demonstrated the working prototype during academic evaluations, meeting all key functionality benchmarks.
